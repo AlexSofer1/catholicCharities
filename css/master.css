@@ -1,0 +1,44 @@
+header{
+    width: 100%;
+    border: 2px solid black;
+    clear: both;
+}
+header img{
+    height: 100px;
+    display: inline-block;
+    margin-left: 16%;
+    margin-right: 9px;
+}
+nav{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: -2%;
+}
+nav ul{
+    margin-top: 20px;
+}
+nav li{
+display: inline-block;
+margin-top: 47px;
+margin-left: 20px;
+}
+
+header section.logo{
+    float: left;
+    width: 20%;
+}
+section{
+
+}
+button.donate{
+    position: absolute;
+    border-radius: 50px;
+margin-left: 15%;
+margin-top: 3%;
+}
+button.search{
+    position: absolute;
+margin-left: 15%;
+margin-top: 3%;
+}
+
